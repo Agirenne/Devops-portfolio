@@ -1,0 +1,5 @@
+SERVER_NAME=devops-playground
+ENVIRONMENT=development
+PORT=8080
+MAX_CONNECTION=100
+
