@@ -9,7 +9,7 @@ Absolute and relative paths
 cd /workspaces/Devops-portfolio/P2  # Absolute path: starts from the Linux root /
 cd P2/labs/app-config                # Relative path: starts from your current location
 
-A path beginning with / works regardless of your current location. A relative path only works when the requested directory exists inside your current location.
+A path beginning with / works regardless of my current location. A relative path only works when the requested directory exists inside my current location.
 
 2. Listing files and directories
 ls                               # List files and directories
