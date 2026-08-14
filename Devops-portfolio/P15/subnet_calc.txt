@@ -1,0 +1,13 @@
+Target Subnet: 10.0.1.0/24
+Subnet Mask: 255.255.255.0
+Total IP Addresses: 256
+Network Address: 10.0.1.0
+Broadcast Address: 10.0.1.255
+First Usable Host IP: 10.0.1.1
+Last Usable Host IP: 10.0.1.254
+
+Target Subnet: 172.16.0.0/28
+Subnet Mask: 255.255.255.240
+Total IP Addresses: 16
+First Usable Host IP: 172.16.0.1
+Last Usable Host IP: 172.16.0.14
