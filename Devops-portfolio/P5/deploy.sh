@@ -1,1 +1,0 @@
-echo "Deployement script executing..."

@@ -1,1 +1,0 @@
-System Initialilization Completed echo Database Connection Established echo ERROR: Failed to bind to port 8080 echo INFO: Retry attemp 1 echo ERROR: Invalid API Token provided cat logs/app.log

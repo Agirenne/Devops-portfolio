@@ -1,2 +1,0 @@
-ls: cannot access '/ect': No such file or directory
-ls: cannot access '/nonexistent-dir': No such file or directory
