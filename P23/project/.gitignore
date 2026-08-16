@@ -1,0 +1,19 @@
+# Environment secrets and API credentials
+*.env
+*.pem
+id_rsa
+
+# Logs and runtime databases
+*.log
+/logs/
+
+# OS and IDE temporary metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Package dependencies
+node_modules/
+venv/
+__pycache__/
